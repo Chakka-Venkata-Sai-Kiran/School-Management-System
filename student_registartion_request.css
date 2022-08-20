@@ -1,0 +1,32 @@
+body
+            {
+                background-image: url('student_registration_request.jpg');
+                background-size: cover;
+            }
+            input{
+                border-radius: 10px;
+                border: 2px solid #00ADB5;
+            }
+            label{
+                color:#F66B0E;
+                font-weight: 50px;
+            }
+            tr,th,td
+            {
+                border-radius: 8px;
+                padding: 10px;
+            }
+            table
+            {
+                background-color: #F9CEEE;
+                color: #E8F9FD;
+                border-radius: 15px;
+                border-collapse: separate;
+                border: 5px solid;
+            }
+            input[type=radio]
+            {
+                border: 0px;
+                height: 14px;
+                width: 22px;
+            }

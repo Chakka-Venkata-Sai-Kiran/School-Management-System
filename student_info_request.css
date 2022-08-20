@@ -1,0 +1,19 @@
+table
+            {
+                color: #E8F9FD;
+                border-radius: 15px;
+                border-collapse: separate;
+                background-color: hsl(40, 86%, 52%);
+                border: 5px solid;
+            }
+            tr,th,td
+            {
+                border-radius: 8px;
+                padding: 10px;
+            }
+body
+{
+    background-image: url("student_info_request.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

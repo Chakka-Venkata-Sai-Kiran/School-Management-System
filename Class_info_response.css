@@ -1,0 +1,24 @@
+body
+{
+    background-image: url("class_info_response.webp") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: px aqua;
+    padding: 15px;
+}
+tr,th,td
+{
+border-radius: 8px;
+padding: 10px;
+}
+table
+{
+background-color: #F9CEEE;
+border-radius: 15px;
+border-collapse: separate;
+border: 5px solid;
+}
+h3
+{
+    color:aliceblue;
+}

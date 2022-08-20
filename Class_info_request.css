@@ -1,0 +1,22 @@
+tr,th,td
+{
+border-radius: 8px;
+padding: 10px;
+}
+table
+{
+background-color: #21b6A8;
+border-radius: 15px;
+border-collapse: separate;
+border: 5px solid;
+}
+body
+{
+    background-image: url("class_info_request.png");
+    background-repeat: no-repeat;
+    background-size: 1280px 630px;
+}
+input{
+    border-radius: 10px;
+    border: 2px solid #00ADB5;
+}

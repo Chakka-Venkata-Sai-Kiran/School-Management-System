@@ -1,0 +1,22 @@
+table
+{
+    background-color: #21b6A8;
+    border-radius: 15px;
+    border-collapse: separate;
+    border: 5px solid;
+}
+tr,th,td
+{
+border-radius: 8px;
+padding: 10px;
+}
+input{
+    border-radius: 10px;
+    border: 2px solid #eb91f3;
+}
+body
+{
+    background-image: url("teacher_info_request.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,33 @@
+h2
+{
+    text-align: center;
+    justify-content: center;
+    background-color: #a87a9e;
+    border-radius: 15px;
+    max-width: 400px;
+    align-self: center;
+    margin: auto;
+}
+
+table
+{
+    border: 5px solid;
+    border-color: #15133C;
+    border-spacing: 10px;
+    background-color: #a87a9e;
+    border-radius: 15px;
+}
+table th,table td,table tr
+{
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid;
+}
+body
+{
+    background-color: #809A6F;
+    background-image: url("student_info_response.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
