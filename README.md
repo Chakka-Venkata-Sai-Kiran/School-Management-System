@@ -1,4 +1,4 @@
-# College-Management-System
+# School-Management-System
 The goal of creating and implementing such a School management web 
 application to properly manage and organise student records, to permit 
 data and information flow across various activities linked to student 
